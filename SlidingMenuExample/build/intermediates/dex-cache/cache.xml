@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="9694bad2144b96624b86f8838dc4e362f0f31dd4">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbc4c44933388e9bdb7612018b118cb04a128142/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="5eaa1d8b2f57d9520b830706bbdd94630746d4e6">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2957a40c27aa809d3e64e008d3b4ad1305b96e3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/libs/crittercism_v3_0_3_sdkonly.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/transforms/dex/debug/folders/1000/2/crittercism_v3_0_3_sdkonly_daab13d9d76cfae5600845b26cb11f2d84b9cb11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_a4c1c807b525431ee7355ebab41bc39b858f21ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Minbo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_b9996223f83d1e1cc71f3eb2e554c74e050a0605/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_f7eaf7f04b9b18f162953489f1d9ba715b9e5497/classes.dex" />
+    </item>
+
+</items>

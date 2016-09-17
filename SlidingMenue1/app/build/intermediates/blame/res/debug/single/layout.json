@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_photos.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/fragment_photos.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_community.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/fragment_community.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_pages.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/fragment_pages.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_community.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/fragment_community.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_pages.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/fragment_pages.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_whats_hot.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/fragment_whats_hot.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_photos.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/fragment_photos.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_find_people.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/fragment_find_people.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_find_people.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenue1/app/src/main/res/layout/fragment_find_people.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/res/merged/debug/layout/fragment_whats_hot.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/src/main/res/layout/fragment_whats_hot.xml"
+    }
+]

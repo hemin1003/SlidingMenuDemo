@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/library/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/library/build/intermediates/exploded-aar/SlidingMenuExample/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/library/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_dropdown_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/library/build/intermediates/exploded-aar/SlidingMenuExample/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/library/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_dropdown_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/library/build/intermediates/exploded-aar/SlidingMenuExample/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/library/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/library/build/intermediates/exploded-aar/SlidingMenuExample/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_item.xml"
+    }
+]

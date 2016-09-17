@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/AndroidSlidingMenu/app/libs/library/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/AndroidSlidingMenu/app/libs/library/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/AndroidSlidingMenu/app/libs/library/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/AndroidSlidingMenu/app/libs/library/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml"
+    }
+]

@@ -1,0 +1,23 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.2'
+    }
+}
+
+ext.groupId = 'net.simonvt.menudrawer'
+ext.compileSdkVersion = 19
+ext.buildToolsVersion = "21.0.0"
+ext.minSdkVersion = 7;
+ext.targetSdkVersion = 19;
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+
+    version = '3.0.7-SNAPSHOT'
+}

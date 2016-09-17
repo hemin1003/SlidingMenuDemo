@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="560dpi"
+    format="7"
+    timestamp="92660793963295"
+    token="-8844340009424071722" >
+
+    <task
+        name="javac"
+        duration="178" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="437" />
+    <task
+        name="verifier"
+        duration="122" />
+
+    <artifact
+        location="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/outputs/apk/example-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="92660793963295" >
+        <artifact
+            location="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/example/build/outputs/apk/example-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/layout-xlarge-v4/abs__screen_action_bar.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/src/main/res/layout-xlarge/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/layout-xlarge-v4/abs__screen_action_bar.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/src/main/res/layout-xlarge/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/src/main/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/src/main/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
+    }
+]

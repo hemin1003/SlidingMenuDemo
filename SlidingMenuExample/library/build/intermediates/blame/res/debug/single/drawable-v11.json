@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/library/build/intermediates/res/merged/debug/drawable-v11/abs__progress_medium_holo.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/library/build/intermediates/exploded-aar/SlidingMenuExample/actionbarsherlock/unspecified/res/drawable-v11/abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/library/build/intermediates/res/merged/debug/drawable-v11/abs__progress_medium_holo.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/library/build/intermediates/exploded-aar/SlidingMenuExample/actionbarsherlock/unspecified/res/drawable-v11/abs__progress_medium_holo.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/layout-large-v4/abs__action_mode_close_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/src/main/res/layout-large/abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/layout-large-v4/abs__action_mode_close_item.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/src/main/res/layout-large/abs__action_mode_close_item.xml"
+    }
+]

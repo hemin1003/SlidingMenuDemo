@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_dark.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_light.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_holo_light.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_holo_light.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_dark.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_holo_dark.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_holo_dark.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_light.xml",
+        "source": "/Users/Minbo/Downloads/App/app_android/code/SlidingMenuExample/actionbarsherlock/src/main/res/color/abs__primary_text_disable_only_holo_light.xml"
+    }
+]

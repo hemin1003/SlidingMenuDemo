@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="8d72c147a3d1471205e127b496afeaf6c02f6ef8">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_908edac0367880c439d23c2bbc13ae1e295e62bc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Minbo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_1b4b37cd54c11b509a2f43252e299fbe83740852/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6b5fc72c44f6abe60bd58815286ded0f76c27e56">
+        <dex dex="/Users/Minbo/Downloads/App/app_android/code/SlidingMenuDemo/SlidingMenue1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6f2a001ca5775e3b2f3092cfd7cb4d90aaf846b0/classes.dex" />
+    </item>
+
+</items>
